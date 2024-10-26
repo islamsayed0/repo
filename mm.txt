@@ -1,0 +1,5 @@
+frist line in remot
+show f8b94d1
+switch diff frist line in remot
+show f8b94d1
+switch diff 
